@@ -4,7 +4,7 @@
 
 <p>Welcome to Guess My Number! This is an exciting and addictive number guessing game that challenges your intuition and luck. The objective is simple: try to guess the secret number between 1 and 20 to win the game!</p>
 
-<h2>How to Play</h2>
+<h2>How to Play 🦖</h2>
 
 <p>1. The game starts with a secret number randomly chosen between 1 and 20.</p>
 <p>2. Enter your guess in the input field and click the "Check!" button to see if your guess matches the secret number.</p>
