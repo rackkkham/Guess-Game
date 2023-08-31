@@ -26,4 +26,4 @@
 
 <p>Enjoy playing Guess My Number! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.</p>
 
-<p>Happy gaming! 🦖</p>
+<p>Happy gaming!</p>
